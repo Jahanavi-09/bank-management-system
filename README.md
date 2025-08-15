@@ -11,4 +11,6 @@ A console-based Bank Management System written in Python using Object-Oriented P
 
 ## How to Run
 ```bash
-python bank_system.py
+bank management system.py
+
+
