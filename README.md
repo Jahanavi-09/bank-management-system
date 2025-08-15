@@ -1,2 +1,14 @@
-# bank-management-system
-"A console-based Python Bank Management System using OOP and file handling"
+# Bank Management System (Python)
+
+A console-based Bank Management System written in Python using Object-Oriented Programming and file handling (pickle).
+
+## Features
+- Create new accounts
+- Deposit money
+- Withdraw money
+- Display account details
+- Persistent data storage using pickle
+
+## How to Run
+```bash
+python bank_system.py
